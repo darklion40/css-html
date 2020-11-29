@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1 {
+    position: relative;
+    color: white;
+    font-size: 570%;
+    width: 15%;
+    margin: 0 auto 0 auto;
+}
+
+.clouds {
+    height: 75px;
+}
+
+.top-linkpanel {
+    background-color: #c75643;
+}
+.top-square {
+    background-color: #d08752;
+    position: relative;
+    margin-top: -10%;
+}
+.mid-square {
+    background-color: #f8f7de;
+    position: relative;
+}
+.informations-square {
+    background-color: #c75643;
+}
+.paragraph2 {
+    color: #d08752;
+    font-size: 250%;
+    position: relative;
+    margin-left: 50%;
+    margin-top: -10%;
+}
+
+#mountain {
+    position: relative;
+    margin: -4px;
+    right: 400px;
+}
+#cloud {
+    position: relative;
+    bottom: 250px;
+    right: 1000px;
+    width: 10%;
+}
+#name {
+    color: #f8f7de;
+    position: relative;
+    margin-right: 35%;
+    top: 375px;
+}
+#paragraph1 {
+    color: #f8f7de;
+    font-size: 20px;
+    font-weight: normal;
+
+    position: relative;
+    margin-left: 15%;
+    top: 350px;
+}
+#welcome {
+    color: #d08752;
+    font-size: 450%;
+    margin-left: 15%;
+}
+#pfp {
+    position: relative;
+    max-width: 15%;
+    bottom: 560px;
+    left: 25%;
+}
+#youtube {
+    position: relative;
+    font-size: 300%;
+    right: 27%;
+}
+#who-am-i {
+    position: relative;
+    color: #f8f7de;
+}
+#who-am-i-2 {
+    position: relative;
+    color: #f8f7de;
+    font-size: 200%;
+}
